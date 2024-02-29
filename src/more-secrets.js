@@ -1,4 +1,4 @@
-/* var AWS_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE";
+var AWS_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE";
 var AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
 var PWD = "askldfjlsadf";
 var API_KEY = "sdfasdf";
@@ -25,6 +25,3 @@ var har_hars = 'lknajankjclbsaljdf765943534m5n4b6';
 var hars = 'lknajankjclbsaljdf765943534m5n4b6';
 var mahardev = 'lknajankjclbsaljdf765943534m5n4b6';
 var hars_hars = 'lknajankjclbsaljdf765943534m5n4b6';
-*/
-
-const result = "OK";
